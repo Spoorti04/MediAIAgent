@@ -1,0 +1,35 @@
+body{
+
+    background:#f8f9fa;
+
+}
+
+.hero{
+
+    padding:90px 20px;
+
+    background:white;
+
+}
+
+.card{
+
+    border:none;
+
+    border-radius:15px;
+
+    transition:.3s;
+
+}
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+footer{
+
+    margin-top:60px;
+
+}
